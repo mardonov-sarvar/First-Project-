@@ -1,0 +1,6 @@
+pandas==2.2.2
+requests==2.31.0
+selenium==4.23.1
+beautifulsoup4==4.12.3
+pyodbc==5.1.0
+webdriver-manager==4.0.2
